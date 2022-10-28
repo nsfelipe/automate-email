@@ -1,0 +1,1 @@
+Automação para envio de email em massa com variaveis para cada email.
